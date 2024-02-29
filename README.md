@@ -6,9 +6,6 @@
 - ⚙️ Tenho trabalhado também com: `Java` | `Kotlin` | `Flutter` | `DevOps` | `DevSecOps`
 - 📫 Mais detalhes: [via linkedin](https://www.linkedin.com/in/leobaiano/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leobaiano&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leobaiano&show_icons=true&count_private=true&hide=stars" alt="leobaiano" />
-
 ### Vida profissional
 
 Profissional com mais de 17 anos de experiência em Desenvolvimento de Software, com experiência em desenvolvimento full-stack e mobile.
