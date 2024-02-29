@@ -8,20 +8,20 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=leobaiano&show_icons=true&count_private=true&hide=stars" alt="leobaiano" />
 
-### Professional life
+### Vida profissional
 
-Professional with over 17 years of experience in Software and Web Development, with experience in both full-stack and mobile development.
+Profissional com mais de 17 anos de experiência em Desenvolvimento de Software, com experiência em desenvolvimento full-stack e mobile.
 
-During these years, I worked with languages such as Node.js (JavaScript), PHP, Go, .Net, Flutter, Kotlin and Python, also using other technologies such as Angular, React, Vue.js, Webpack, Kotlin, Fluttler and hybrid models. Extensive experience with writing and automating unit tests, integration and e2e, Messageria (Kafka and Rabbitmq), API governance, container and orchestration using Docker, Rancher and Kubernetes, creation of CI/CD pipeline mainly with Azure and Jenkins.
+Durante esses anos, trabalhei com linguagens como Node.js, JavaScript/Type Script, PHP, Go, .Net, Flutter, Kotlin e Python, utilizando também outras tecnologias como Angular, React, Vue.js, Webpack, Kotlin, Modelos Fluttler e híbridos. Ampla experiência com escrita e automação de testes unitários, integração e e2e, mensageria (Kafka e RabbitMQ), governança de APIs, container e orquestração utilizando Docker, Rancher e Kubernetes, criação de pipeline CI/CD principalmente com Azure e Jenkins.
 
-I master concepts and have experience with microservices, SOLID, development cycle - SDL, serveless, DDD and Rest and GraphQL APIs. I also had a lot of contact with automation to facilitate the day-to-day life of the engineering team in resource provisioning and other day-to-day tasks, automation of SAST, DAST, SCA, Owasp Zap in CI pipeline.
+Domino conceitos e tenho experiência com microserviços, SOLID, ciclo de desenvolvimento - SDL, serverless, DDD e APIs Rest e GraphQL. Também tive muito contato com automação para facilitar o dia a dia da equipe de engenharia no provisionamento de recursos e demais tarefas do dia a dia, automação de SAST, DAST, SCA, Owasp Zap em pipeline de CI.
 
-## Me in everyday life
+## Quem sou eu no dia a dia?
 
-I like making friends and getting to know new cultures, I believe this broadens my horizons and makes me see the world in a more fun way. I'm not the type who enjoys staying at home, I like going out, talking to friends, listening to good live music, drinking some cold beers and going to the beach.
+Gosto de fazer amigos e conhecer novas culturas, acredito que isso amplia meus horizontes e me faz ver o mundo de uma forma mais divertida. Não sou do tipo que gosta de ficar em casa, gosto de sair, conversar com os amigos, ouvir uma boa música ao vivo, tomar umas cervejas geladas e ir à praia.
 
-When I'm at home I like to watch series and relax.
+Quando estou em casa gosto de assistir séries e relaxar.
 
-I don't have a favorite style of music, for me the environment, company and my state of mind at the moment define the type of music I like at that time. Currently I haven't played sports but I've played a lot of football, I like to walk in the morning to take care of my health.
+Não tenho um estilo de música preferido, para mim o ambiente, a companhia e o meu estado de espírito no momento definem o tipo de música que gosto naquele momento. Atualmente não pratico esportes mas joguei muito futebol, gosto de caminhar pela manhã para cuidar da saúde.
 
-This is me, if you want to get to know me better just call me, I'd love to.
+Essa sou eu, se quiser me conhecer melhor é só me ligar, eu adoraria.
