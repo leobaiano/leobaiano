@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Leo Baiano!
+### 👋 Olá, eu sou o Leo Baiano!
 
 - 🏢 Trabalho atualmente na **[@UX Agency](https://uxagency.com.br)**
 - 💻 Senior Software Engineer
