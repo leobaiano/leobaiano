@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Leo Baiano!
 
-- 🏢 Trabalho atualmente na **[@UX Agency](https://uxagency.com.br)**
+- 🏢 Trabalho atualmente na **[Zup](https://zup.com.br/)**
 - 💻 Senior Software Engineer
 - ⚙️ Sou proeficiente nas linguagens: `JS` | `PHP` | `.NET` | `Python` | `Go`
 - ⚙️ Tenho trabalhado também com: `Java` | `Kotlin` | `Flutter` | `DevOps` | `DevSecOps`
